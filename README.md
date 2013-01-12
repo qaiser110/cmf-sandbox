@@ -52,7 +52,7 @@ in ``app/AppKernel.php`` and then also perform:
 
     php composer.phar require liip/doctrine-cache-bundle:dev-master
 
-Finally uncomment the ``caches`` settings in the `phpcr.yml` as well as the ``liip_doctrine_cache``
+Finally uncomment the ``caches`` settings in the `phpcr_doctrine_dbal.yml` as well as the ``liip_doctrine_cache``
 settings in ``app/config.yml``.
 
 
